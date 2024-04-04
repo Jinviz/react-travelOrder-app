@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Complete = () => {
+const CompletePage = () => {
   return (
     <div>Complete</div>
   )
 }
 
-export default Complete
+export default CompletePage
